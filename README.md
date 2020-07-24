@@ -1,4 +1,4 @@
-## Written test for Bongo’s Python Engineer position.
+## Written Test for Bongo’s Python Engineer Position.
 
 
 1) Write the following function’s body. A nested dictionary is passed as parameter. You need to
@@ -89,16 +89,15 @@
     }
     ```
     
-    ```
-                1
-               / \
-              /   \
+    ```     
+                1 
              /     \
             2       3
            / \     / \
           4   5   6   7
          / \
         8   9
+
     ```
     
     Ancestor Definition:
