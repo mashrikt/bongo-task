@@ -3,7 +3,7 @@ import pytest
 from ..task_2 import print_depth, Person
 
 
-class TestTask1:
+class TestTask2:
 
     @pytest.fixture
     def person_a(self):
