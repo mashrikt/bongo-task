@@ -1,6 +1,20 @@
 ## Written Test for Bongo’s Python Engineer Position.
 
+#### How to Run the Tests
 
+With virtualenv:
+```
+$ pip install requirements.txt
+$ pytest -vv
+```
+
+With pipenv:
+```
+$ pipenv install
+$ pipenv run pytest -vv
+```
+
+#### Task
 1) Write the following function’s body. A nested dictionary is passed as parameter. You need to
     print all keys with their depth.
     
